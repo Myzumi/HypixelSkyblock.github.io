@@ -1,6 +1,6 @@
 ## New punishment system
 
-Oliver has asked for me to make a replacement for Carlbot, because there was a decent amount of issues with the punishment system, including people getting kicked (which doesn't resolve anything) to people getting 10s of punishments and still being allowed to chat and stay on the server.
+Oliver has asked me to make a replacement for Carlbot, because there was a decent amount of issues with the punishment system, including people getting kicked (which doesn't resolve anything) to people getting 10s of punishments and still being allowed to chat and stay on the server.
 
 ### The system it's self:
 
