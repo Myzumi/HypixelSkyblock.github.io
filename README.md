@@ -66,6 +66,11 @@ and it'll remove the record from the database.
 
 **WARNING It will not also unmute them/unban them, that needs to be done manually, it'll just remove the records from the database meaning subsequent punishments won't count it.**
 
+If you still want to remove their mute manually, you can do
+```markdown
+!unmute <discord_id>
+```
+
 If you have any questions, ask me by either pinging me or send me a DM at Skezza#1139.
 
 - Skezza
