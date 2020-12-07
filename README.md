@@ -51,8 +51,8 @@ When the report embed is generated, please make **absolutely sure** that **all**
 Data from that embed will be collected and then get inserted into the database, and their amount of `penalty points` will be calculated based on an exponential system, meaning breaking the same rule _twice_ will have _worse_ consequences the second time.
 Depending on their amount of `penalty points`, they will be given a certain punishment, this is not left to a per-person basis, and is instead completely objective and done automatically, as to be more consistent.
 
-They will get automatically banned/muted depending on their amount of `penalty points`, and then automatically unbanned/unmuted after their punishment is over. They will also get a message saying they have passed the point threshold and the length of their punishment.
-The audit logs will show this ban/mute as "Point threshold - x day mute/ban".
+They will get automatically banned/muted depending on their amount of `penalty points`, and then automatically unbanned/unmuted after their punishment is over. A new embed will appear in **#status** showing that they have been muted or banned, just to confirm that everything went though alright.
+They will also get a message saying they have passed the point threshold and the length of their punishment.
 
 Each punishment record "expires" (As in, is no longer counter) **30 days** after it has happened, with the one exception being if another punishment is already still active, in which
 case, the second punishment will expire **30 days** _after_ the previous punishment expires.
