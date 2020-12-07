@@ -76,6 +76,12 @@ If you still want to remove their mute manually, you can do
 !unmute <discord_id>
 ```
 
+Finally, if you want to report someone for something such as spamming, and it's multiple messages, by the previous system, you'd just screenshot the whole thing and post it in #proof-material. With this system, report the last message in the spam chain, like you normally would, and then, when the report embed has been generated, copy the message link *of the report embed* and do 
+```markdown
+!add_evidence <copied message link>
+```
+And then also attach an image of the spamming, e.g. a cropped screenshot of the user spamming. This will edit the report embed to attach the image, so that if we need to look back, or they request the evidence, you can search for the case id, and see the image.
+
 If you have any questions, ask me by either pinging me or send me a DM at Skezza#1139.
 
 - Skezza
