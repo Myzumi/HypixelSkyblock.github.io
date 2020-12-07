@@ -16,6 +16,11 @@ This new command will take 2 arguments:
    Found on the forum e.g. Spamming = SP
 ```
 
+You can find a list of the possible abbreviations/rules on the forum, or by doing
+```markdown
+!rule_list
+```
+
 An example of a valid report syntactically would be.
 
 ```markdown 
