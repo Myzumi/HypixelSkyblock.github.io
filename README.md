@@ -1,87 +1,124 @@
-## New punishment system
+## The new report system - overview
 
-Oliver has asked me to make a replacement for Carlbot, because there was a decent amount of issues with the punishment system, including people getting kicked (which doesn't resolve anything) to people getting 10s of punishments and still being allowed to chat and stay on the server.
+The new report system includes 3 new channels:
+```markdown 
+#reports
+#mod-logs
+#status
+```
 
-### The system it's self:
+Which each serve a different purpose, these will be explained later on in this post.
 
-If someone breaks a rule, rather than screenshotting and posting in a separate channel, and then reporting their id, this is collected into a single point, so the new report system, with the command 
+There is also a few more command which too will be explained later on. They are:
+
 ```markdown 
 !report
-```
-This new command will take 2 arguments:
-```markdown
-1. A discord message link. 
-   Obtained by right-clicking a message + clicking "Copy message link"
-2. An abbreviated rule
-   Found on the forum e.g. Spamming = SP
-```
-
-You can find a list of the possible abbreviations/rules on the forum, or by doing
-```markdown
+!add_evidence
 !rule_list
+!logs
+!remove_report
+!view_case
+!unmute
 ```
 
-An example of a valid report syntactically would be.
+## Rational
 
-```markdown 
-!report https://discord.com/channels/571681282652766208/715722306651029554/784164860484780093 SP
-```
+The rational for this system were a large variety of reason.
+Firstly, to eliminate the dependancy on CarlBot for punishments. Carlbot having a multitude of finicky side effects.
+To create a more custom and tailored system, which works well for us.
+To eliminate subjectivity, and remove that bearing from the staff members.
+And more.
 
-When this command is executed, you should see a reply from the bot acknowledging your report.
-It'll give you information about the player you have reported, including their `nickname`, their `discord id`, and a `link` to the report embed that has been automatically generated in **#mod-logs**.
+## Definitions and explanations
 
-In the **#mod-logs** channel, you'll see your new report.
-There are 2 stages of reports, `Low-tier` reports (<span style="color:blue">Blue</span>) and `High-tier` reports (<span style="color:orange">Orange</span>).
+To prefix the following section, some definitions and explanations might be necessery, although for many of you this is already second nature.
 
+1. A message link.
+A message link is a link given to you by discord when right clicking a message and clicking **"Copy message link"**.
+It will be in this form: https://discord.com/channels/571681282652766208/715722306651029554/784164860484780093
+Where the first id is the guild, the second the channel, and the third, the message id, you don't have to worry about these numbers, but being able to get a message link is very much necessery for this system to work.
 
-`Low-tier` reports (<span style="color:blue">Blue</span> reports) can be accepted by the person who submitted the report, Moderators and Administrators.
-`High-tier` reports (<span style="color:orange">Orange</span> reports) can only be accepted by Moderators and Administrators, **not** Helpers.
+2. A report embed.
+This is an embed found in **#mod-logs** which was sent by the bot and contains all the information about a punishment: It's case id, the rule they broke, who reported them, the proof, it's status and the evidence.
+This will be the main point of proof, explaination of punishments, etc.
 
-If you have submitted a low-tier report, click the link or move to **#mod-logs** and check to make sure all the information in the embed is accurate. If the message you reported had an image, it'll be at the bottom of the auto-generated embed, if it had text, it'll be in the "Proof" line. It can have **both**.
+3. The report categories.
+Each punishment will need to go under a category, these can be found by doing `!rule_list`.
+When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for SP).
+A more depthy explanation is found on the forum here: https://hypixelskyblock.de/forum/threads/skyblock-discord-staff-punishment-guidelines.43/
 
-If you submitted a `High-tier` report, you will need to wait for a Moderator to accept your report, as `High-tier` reports **cannot** be accepted by Helpers.
+4. Arguments and attachments.
+An argument is an input for a command, in text. For example, if we had an add command, such as !add 5 6
+The command would be `add` and `5` and `6` both would be arguments.
+If we had an `!upload` command, you might attach an image, this is an attachment, `!upload` might not take any arguments, but might take an attachment. Know the difference!
 
-When you or a Mod reacts to a report embed, with either `Accept` or `Deny`, the embed will change colour and the message at the bottom that states "This report is on-going" will change to either
-`This report was 'accepted' by X`, or `This report was 'denied' by X`. The emoji "buttons" will also disappear.
+The main command with this system is predictably, `!report`.
+This command takes 2 arguments.
+1. A message link.
+This message link will be obtained by right clicking a message of the person who has broken the rules, and the message inwhich they have done so. For example, is Person A sends two different messages, the first being "What costs more, a gold block or iron block" and their second being "I hope you die in a hole", you would report the second message.
+2. An abbreviated rule broken.
+An example of this might be "SP", "IRL" or "FB".
 
-If the report is **Accepted**, the original message will be deleted, but the proof will stay in the embed. If someone requests the proof in which they were reported on, this is where you will find it.
+An example of a valid report command with correct syntax might be:
+`!report https://discord.com/channels/571681282652766208/571708643888726017/794935864475910185 IC`
 
-When the report embed is generated, please make **absolutely sure** that **all** the information is correct, that the person who's getting the report is correct, the proof is correct etc. If it is, click `Accept`. If it's not, click `Deny`. If the information is not correct, please contact me and I'll investigate.
+You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming (for the most part).
 
-Data from that embed will be collected and then get inserted into the database, and their amount of `penalty points` will be calculated based on an exponential system, meaning breaking the same rule _twice_ will have _worse_ consequences the second time.
-Depending on their amount of `penalty points`, they will be given a certain punishment, this is not left to a per-person basis, and is instead completely objective and done automatically, as to be more consistent.
+If something needs extra evidence, such as spamming (Since reporting one instance of what they spammed doesn't act as sufficient proof)
+You can use the `!add_evidence` command.
 
-They will get automatically banned/muted depending on their amount of `penalty points`, and then automatically unbanned/unmuted after their punishment is over. A new embed will appear in **#status** showing that they have been muted or banned, just to confirm that everything went though alright.
-They will also get a message saying they have passed the point threshold and the length of their punishment.
+This command takes 2 parameters.
+1. A message link
+2. An attachment, an image to act as more proof.
 
-Each punishment record "expires" (As in, is no longer counter) **30 days** after it has happened, with the one exception being if another punishment is already still active, in which
-case, the second punishment will expire **30 days** _after_ the previous punishment expires.
+Nb: If you reported them for an image they sent, and add more proof, the original image will be overriden!
 
-To see someone's punishment history, you can do 
-```markdown
-!logs <user id> 
-```
-and a list of their history will appear.
+The message link in this instance, is *not* of the message you want to report, but instead, of the report embed that you want to add evidence to. So please head over to **#mod-logs**, right click the report embed, and copy that link, then attach the proof as an attachment.
+This image can be a screenshot of the person spamming, spanning over multiple messages.
 
-If you believe someone was reported in an unfair way, and it got accepted, you can use 
-```markdown
-!remove_report <case_id>
-```
-and it'll remove the record from the database.
+Extra, less used commands:
 
-**WARNING It will not also unmute them/unban them, that needs to be done manually, it'll just remove the records from the database meaning subsequent punishments won't count it.**
+`logs <target's discord id>`
+This is similar to the old .modlogs, but will show their entire history, in a cleaner, more readable fashion.
+Use this to see everyone who has reported someone, and for what.
 
-If you still want to remove their mute manually, you can do
-```markdown
-!unmute <discord_id>
-```
+`!remove_report <case id>`
+If someone was falsely reported, and it was accepted, you can remove this report from the database, just grab the case id, and use
+!remove_report. 
+Nb: This will not undo any punishments, e.g. if it caused them to get muted, this will not unmute them, so use the following command to do that.
 
-Finally, if you want to report someone for something such as spamming, and it's multiple messages, by the previous system, you'd just screenshot the whole thing and post it in #proof-material. With this system, report the last message in the spam chain, like you normally would, and then, when the report embed has been generated, copy the message link *of the report embed* and do 
-```markdown
-!add_evidence <copied message link>
-```
-And then also attach an image of the spamming, e.g. a cropped screenshot of the user spamming. This will edit the report embed to attach the image, so that if we need to look back, or they request the evidence, you can search for the case id, and see the image.
+`!unmute <discord_id>`
+Unmutes someone if they were falsely muted.
 
-If you have any questions, ask me by either pinging me or send me a DM at Skezza#1139.
+`!view_case <case id>`
+Shows all information about a case, e.g. the user, the staff member, when it happened, etc.
 
-- Skezza
+`!rule_list`
+Shows all the rules and abbreviations.
+
+## =================
+
+When a report has been made, it'll either be a low tier report (for less serious things, such as spam, etc) which will lead to a mute on the first instance, or a high tier report (IRL trading, Scamming etc).
+
+If it's high tier, it'll need to be accepted by a mod, and will be orange. (Mods will also be pinged)
+If it's low tier, it'll be able to be accepted by the person who reported it, and be blue (Mods can accept or deny any report)
+
+Once it's accepted, it'll change to green, and **status** will show that the punishment has taken effect (It will also show when the punishment has warn off)
+
+When it's accepted, the user will get a certain amount of penalty points. This varies for each punishment but it goes between 1 and 8.
+Having 1 point is a 1 day mute.
+Having 8 points is a permanent ban.
+
+The amount of points varies for each category, but SP is 1 point, and IRL is 8 points.
+Punishments will expire after 30 days, but only if no active punishments exist, e.g. if you're half way through one punishment, and get another, the second one will expire in 15+30 days.
+
+For breaking the same rule twice, the amount of points will increase, compared to the base.
+E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points, and then 1.8 points etc.
+
+This is to prevent people from breaking the rules once a month and being just fine, if they spam enough (even when serving the punishments) they will eventually be banned.
+
+What this means is that staff are no longer held responsible for dictating the punishment length or severity, and are instead more focused on reporting people breaking the rules, and being good people.
+
+This system may be a little overwelming to begin with, but makes a lot of sense when you get used to it, and should steamline reporting people, getting them punished, helping find evidence, and more.
+
+If you do have any questions, please contact Skezza in DMs or #staff-chat.
