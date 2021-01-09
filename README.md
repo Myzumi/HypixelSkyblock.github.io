@@ -23,11 +23,13 @@ There is also a few more command which too will be explained later on. They are:
 
 ## Rational
 
+```markdown
 The rational for this system were a large variety of reason.
 Firstly, to eliminate the dependancy on CarlBot for punishments. Carlbot having a multitude of finicky side effects.
 To create a more custom and tailored system, which works well for us.
 To eliminate subjectivity, and remove that bearing from the staff members.
 And more.
+```
 
 ## Definitions and explanations
 
