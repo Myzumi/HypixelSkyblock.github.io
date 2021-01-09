@@ -78,7 +78,7 @@ This image can be a screenshot of the person spamming, spanning over multiple me
 
 Extra, less used commands:
 
-`logs <target's discord id>`
+`!logs <target's discord id>`
 This is similar to the old .modlogs, but will show their entire history, in a cleaner, more readable fashion.
 Use this to see everyone who has reported someone, and for what.
 
