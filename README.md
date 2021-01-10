@@ -24,12 +24,12 @@ There is also a few more command which too will be explained later on. They are:
 ## Rational
 
 ```markdown
-The rational for this system were a large variety of reason.
-To eliminate the dependancy on CarlBot for punishments. 
-Carlbot having a multitude of finicky side effects.
-To create a more custom and tailored system, which works well for us.
-To eliminate subjectivity, and remove that bearing from the staff members.
-And many more.
+- The rational for this system were a large variety of reason.
+- To eliminate the dependancy on CarlBot for punishments. 
+- Carlbot having a multitude of finicky side effects.
+- To create a more custom and tailored system, which works well for us.
+- To eliminate subjectivity, and remove that bearing from the staff members.
+- And many more.
 ```
 ---
 
@@ -49,7 +49,7 @@ This will be the main point of proof, explaination of punishments, etc.
 ###### `3. The report categories.`
 Each punishment will need to go under a category, these can be found by doing `!rule_list`.
 When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for `SP`).
-A more ib-depth explanation of each rule can be found on the forum here: https://hypixelskyblock.de/forum/threads/skyblock-discord-staff-punishment-guidelines.43/
+A more in-depth explanation of each rule can be found on the forum here: https://hypixelskyblock.de/forum/threads/skyblock-discord-staff-punishment-guidelines.43/
 
 ###### `4. Arguments and attachments.`
 An argument is an input for a command, in text. For example, if we had an add command, such as `!add 5 6`
@@ -62,9 +62,9 @@ If we had an `!upload` command, you might attach an image, this is an *attachmen
 
 The main command with this system is, predictably, `!report`.
 This command takes 2 *arguments*.
-###### 1. A message link.
+###### `1. A message link.`
 This message link will be obtained by right clicking a message of the person who has broken the rules, and the message inwhich they have done so. For example, is Person A sends two different messages, the first being "What costs more, a gold block or iron block" and their second being "I hope you die in a hole", you would report the second message.
-###### 2. An abbreviated rule broken.
+###### `2. An abbreviated rule broken.`
 An example of this might be "SP", "IRL" or "FB".
 
 An example of a valid report command with correct syntax might be:
@@ -106,26 +106,29 @@ Shows all the rules and abbreviations.
 
 ---
 
-When a report has been made, it'll either be a low tier report (for less serious things, such as spam, etc) which will lead to a mute on the first instance, or a high tier report (IRL trading, Scamming etc).
+When a report has been made, it'll either be a <span style="color:blue">Low Tier Report</span> (for less serious things, such as Spamming, etc) which will lead to a mute on the first instance, or a <span style="color:orange">High Tier Report</span> (IRL trading, Scamming etc).
 
-If it's high tier, it'll need to be accepted by a mod, and will be orange. (Mods will also be pinged)
-If it's low tier, it'll be able to be accepted by the person who reported it, and be blue (Mods can accept or deny any report)
+If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>. (Mods will also be pinged)
+If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
 
-Once it's accepted, it'll change to green, and **status** will show that the punishment has taken effect (It will also show when the punishment has warn off)
+Once it's accepted, it'll change to <span style="color:green">Green</span>, and **status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
 
-When it's accepted, the user will get a certain amount of penalty points. This varies for each punishment but it goes between 1 and 8.
+When it's accepted, the user will get a certain amount of **penalty points**. This varies for each punishment but it goes between 1 and 8.
 Having 1 point is a 1 day mute.
+Having 5 points is a 30 day ban.
 Having 8 points is a permanent ban.
 
-The amount of points varies for each category, but SP is 1 point, and IRL is 8 points.
-Punishments will expire after 30 days, but only if no active punishments exist, e.g. if you're half way through one punishment, and get another, the second one will expire in 15+30 days.
+And all the ones in-between. They will be notified of the punishment, the type of punishment (mute or ban), the length, and for what for. They will **not** be told who reported them. This is confidential.
 
-For breaking the same rule twice, the amount of points will increase, compared to the base.
-E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points, and then 1.8 points etc.
+The amount of points varies for each category, but SP is 1 point, and IRL is 8 points.
+Punishments will expire after 30 days, but only if no active punishments exist, e.g. if you're half way through one punishment, and get another, the second one will expire in 15 (from the previous punishment) + 30 days (for the second punishment).
+
+For breaking the same rule twice, the amount of points will *increase*, compared to the base value for each punishment.
+E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points (1 for the base, +0.4 for the second time), and then 1.8 points etc.
 
 This is to prevent people from breaking the rules once a month and being just fine, if they spam enough (even when serving the punishments) they will eventually be banned.
 
-What this means is that staff are no longer held responsible for dictating the punishment length or severity, and are instead more focused on reporting people breaking the rules, and being good people.
+What this means is that staff are no longer held responsible for dictating the punishment length or severity, and are instead more focused on reporting people breaking the rules, and generally helping out amongst the server and being good role models for players.
 
 This system may be a little overwelming to begin with, but makes a lot of sense when you get used to it, and should steamline reporting people, getting them punished, helping find evidence, and more.
 
