@@ -115,12 +115,12 @@ When a report has been made, it'll either be a <span style="color:blue">Low Tier
 If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>. (Mods will also be pinged)
 If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
 
-Once it's accepted, it'll change to <span style="color:green">Green</span>, and **status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
+Once it's accepted, it'll change to <span style="color:green">Green</span>, and **#status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
 
 When it's accepted, the user will get a certain amount of **penalty points**. This varies for each punishment but it goes between 1 and 8.
-Having 1 point is a 1 day mute.
-Having 5 points is a 30 day ban.
-Having 8 points is a permanent ban.
+- Having 1 point is a 1 day mute.
+- Having 5 points is a 30 day ban.
+- Having 8 points is a permanent ban.
 
 And all the ones in-between. They will be notified of the punishment, the type of punishment (mute or ban), the length, and for what for. They will **not** be told who reported them. This is confidential.
 
