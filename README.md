@@ -21,6 +21,8 @@ There is also a few more command which too will be explained later on. They are:
 !unmute
 ```
 
+---
+
 ## Rational
 
 ```markdown
@@ -105,6 +107,8 @@ Shows all information about a case, e.g. the user, the staff member, when it hap
 Shows all the rules and abbreviations.
 
 ---
+
+## Reports
 
 When a report has been made, it'll either be a <span style="color:blue">Low Tier Report</span> (for less serious things, such as Spamming, etc) which will lead to a mute on the first instance, or a <span style="color:orange">High Tier Report</span> (IRL trading, Scamming etc).
 
