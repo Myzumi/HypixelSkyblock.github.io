@@ -23,7 +23,7 @@ There is also a few more command which too will be explained later on. They are:
 
 ---
 
-## Rational
+## Rationale
 
 ```markdown
 - The rational for this system were a large variety of reason.
