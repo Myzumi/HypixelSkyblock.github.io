@@ -29,7 +29,7 @@ There is also a few more command which too will be explained later on. They are:
 - To eliminate the dependancy on CarlBot for punishments. 
 - Carlbot having a multitude of finicky side effects.
 - To create a more custom and tailored system, which works well for us.
-- To eliminate subjectivity, and remove that bearing from the staff members.
+- To eliminate subjectivity, and remove that bearing from staff members.
 - And many more.
 ```
 ---
