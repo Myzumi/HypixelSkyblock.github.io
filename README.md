@@ -13,7 +13,6 @@ There is also a few more command which too will be explained later on. They are:
 
 ```markdown 
 !report
-!add_evidence
 !rule_list
 !logs
 !remove_report
@@ -74,17 +73,8 @@ An example of a valid report command with correct syntax might be:
 
 You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming (for the most part).
 
-If something needs extra evidence, such as spamming (Since reporting one instance of what they spammed doesn't act as sufficient proof)
-You can use the `!add_evidence` command.
-
-This command takes 2 parameters.
-1. A message link
-2. An attachment, an image to act as more proof.
-
-Nb: If you reported them for an image they sent, and add more proof, the original image will be overriden!
-
-The message link in this instance, is *not* of the message you want to report, but instead, of the report embed that you want to add evidence to. So please head over to **#mod-logs**, right click the report embed, and copy that link, then attach the proof as an attachment.
-This image can be a screenshot of the person spamming, spanning over multiple messages.
+If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof)
+Please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
 
 ## Extra, less used commands:
 
