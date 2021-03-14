@@ -49,13 +49,11 @@ This will be the main point of proof, explaination of punishments, etc.
 
 ###### `3. The report categories.`
 Each punishment will need to go under a category, these can be found by doing `!rule_list`.
-When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for `SP`).
-A more in-depth explanation of each rule can be found on the forum here: https://hypixelskyblock.de/forum/threads/skyblock-discord-staff-punishment-guidelines.43/
+When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for `SP`). If you are unsure what rule something comes under, please ask a Mod.
 
-###### `4. Arguments and attachments.`
-An argument is an input for a command, in text. For example, if we had an add command, such as `!add 5 6`
-The *command* would be `add`, and both `5` and `6` both would be *arguments*.
-If we had an `!upload` command, you might attach an image, this is an *attachment*, `!upload` might not take any *arguments*, but might take an *attachment*. Know the difference!
+###### `4. Command Arguments.`
+An argument is an input for a command. It will be space seperated sections of text. For example, if we had an add command, such as `!add 5 6`
+The *command* would be `add`, and both `5` and `6` both would be *arguments*. 
 
 ---
 
@@ -71,13 +69,13 @@ An example of this might be "SP", "IRL" or "FB".
 An example of a valid report command with correct syntax might be:
 `!report https://discord.com/channels/571681282652766208/571708643888726017/794935864475910185 IC`
 
-You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming, and the very limited number of reasons we report for DMs, (for the most part).
+You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being SP - Spamming, and the very limited number of reasons we report for DMs, (for the most part).
 
 ### Possible edge cases:
 
 If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof), please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
 
-If it was in DMs, such using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the reporte embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). Furthermore, if the user has never sent a message, ask a Mod to permanently ban them manually.
+If it was in DMs, such using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the report embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). Furthermore, if the user has never sent a message, ask a Mod to permanently ban them manually.
 
 ## Extra, less used commands:
 
@@ -91,7 +89,7 @@ If someone was falsely reported, and it was accepted, you can remove this report
 Nb: This will not undo any punishments, e.g. if it caused them to get muted, this will not unmute them, so use the following command to do that.
 
 ### `!unmute <discord_id>`
-Unmutes someone if they were falsely muted.
+Removes the `Muted` role from someone if they were falsely muted.
 
 ### `!view_case <case id>`
 Shows all information about a case, e.g. the user, the staff member, when it happened, etc.
@@ -105,23 +103,23 @@ Shows all the rules and abbreviations.
 
 When a report has been made, it'll either be a <span style="color:blue">Low Tier Report</span> (for less serious things, such as Spamming, etc) which will lead to a mute on the first instance, or a <span style="color:orange">High Tier Report</span> (IRL trading, Scamming etc).
 
-If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>. (Mods will also be pinged)
-If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
+If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>. (Mods will also be pinged, if the report was from a Helper)
+If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a Mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
 
 Once it's accepted, it'll change to <span style="color:green">Green</span>, and **#status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
 
-When it's accepted, the user will get a certain amount of **penalty points**. This varies for each punishment but it goes between 1 and 8.
+When it's accepted, the user will get a certain amount of **penalty points**. This varies for each punishment but it goes between 1 and 8. For example:
 - Having 1 point is a 1 day mute.
 - Having 5 points is a 30 day ban.
 - Having 8 points is a permanent ban.
 
-And all the ones in-between. They will be notified of the punishment, the type of punishment (mute or ban), the length, and for what for. They will **not** be told who reported them. This is confidential.
+And all the ones in-between. They will be notified of the punishment, the type of punishment (mute or ban), the length, and for what for. They will **not** be told who reported them. This is confidential, do *not* share this with anyone.
 
 The amount of points varies for each category, but SP is 1 point, and IRL is 8 points.
 Punishments will expire after 30 days, but only if no active punishments exist, e.g. if you're half way through one punishment, and get another, the second one will expire in 15 (from the previous punishment) + 30 days (for the second punishment).
 
 For breaking the same rule twice, the amount of points will *increase*, compared to the base value for each punishment.
-E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points (1 for the base, +0.4 for the second time), and then 1.8 points etc.
+E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points (1 for the base, + 0.4 for the second time), and then 1.8 points etc.
 
 This is to prevent people from breaking the rules once a month and being just fine, if they spam enough (even when serving the punishments) they will eventually be banned.
 
