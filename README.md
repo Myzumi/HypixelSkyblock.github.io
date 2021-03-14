@@ -76,6 +76,8 @@ You would use this command in **#reports**, and with this new command, you gener
 If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof)
 Please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
 
+If it was in DMs, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the reporte embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). Furthermore, if the user has never sent a message, ask a Mod to permanently ban them manually.
+
 ## Extra, less used commands:
 
 ### `!logs <target's discord id>`
