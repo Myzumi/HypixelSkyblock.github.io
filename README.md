@@ -71,7 +71,7 @@ An example of this might be "SP", "IRL" or "FB".
 An example of a valid report command with correct syntax might be:
 `!report https://discord.com/channels/571681282652766208/571708643888726017/794935864475910185 IC`
 
-You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming (for the most part).
+You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming, and using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content (for the most part).
 
 If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof)
 Please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
