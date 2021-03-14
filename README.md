@@ -71,12 +71,13 @@ An example of this might be "SP", "IRL" or "FB".
 An example of a valid report command with correct syntax might be:
 `!report https://discord.com/channels/571681282652766208/571708643888726017/794935864475910185 IC`
 
-You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming, and using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content (for the most part).
+You would use this command in **#reports**, and with this new command, you generally don't need to also screenshot proof, or get the user's ID, with the only exception of this being Spamming, and the very limited number of reasons we report for DMs, (for the most part).
 
-If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof)
-Please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
+### Possible edge cases:
 
-If it was in DMs, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the reporte embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). Furthermore, if the user has never sent a message, ask a Mod to permanently ban them manually.
+If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof), please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports after the report embed.
+
+If it was in DMs, such using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the reporte embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). Furthermore, if the user has never sent a message, ask a Mod to permanently ban them manually.
 
 ## Extra, less used commands:
 
