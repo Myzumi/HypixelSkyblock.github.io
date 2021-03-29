@@ -83,6 +83,9 @@ If it was in DMs, such using the server as a platform to spread discord invites 
 This is similar to the old .modlogs, but will show their entire history, in a cleaner, more readable fashion.
 Use this to see everyone who has reported someone, and for what.
 
+### `!rule_list`
+Shows all the rules and abbreviations.
+
 ### `!remove_report <case id>`
 If someone was falsely reported, and it was accepted, you can remove this report from the database, just grab the case id, and use
 !remove_report. 
@@ -94,9 +97,6 @@ Removes the `Muted` role from someone if they were falsely muted.
 ### `!view_case <case id>`
 Shows all information about a case, e.g. the user, the staff member, when it happened, etc.
 
-### `!rule_list`
-Shows all the rules and abbreviations.
-
 ---
 
 ## Reports
@@ -107,6 +107,8 @@ If it's <span style="color:orange">High Tier Report</span>, it'll need to be acc
 If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a Mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
 
 Once it's accepted, it'll change to <span style="color:green">Green</span>, and **#status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
+
+## Penalties
 
 When it's accepted, the user will get a certain amount of **penalty points**. This varies for each punishment but it goes between 1 and 8. For example:
 - Having 1 point is a 1 day mute.
@@ -124,6 +126,15 @@ E.g. SP - Spamming is 1 point, but the second instance, it would add 1.4 points 
 This is to prevent people from breaking the rules once a month and being just fine, if they spam enough (even when serving the punishments) they will eventually be banned.
 
 What this means is that staff are no longer held responsible for dictating the punishment length or severity, and are instead more focused on reporting people breaking the rules, and generally helping out amongst the server and being good role models for players.
+
+##  The burden of proof.
+
+As staff members, we're help responsible for punishments given out to the community. Punishments should be transparent, easily justified, and fair.
+We're also held responsible for providing justifiable and sufficient proof on request, to anyone who does so (evidence relating to the user only). 
+
+Therefor, when reporting someone, it is crucial that you post **all** evidence you find, in screenshots or text, making sure *not* to give discord links as evidence, as if the original message is deleted later on, it'll point to nothing. There are a few occations where this isn't possible, such as VCA - Voice Chat Abuse, and IRL - I.R.L. Trading (e.g. Discord invites in DMS), and thus, it is crucial that you make it absolutely clear what has happened, so that anyone (ideally, literally anyone) in the future can look at the report and be happy that it was fair and justified. When reporting for either of the aforementioned, please make sure you write a personal statement explaining what was said or done (e.g. they were rapidly joining and rejoining to aggitate other users), and acknowledge that you were either a first hand witness, or have reasonable doubt that is it true. Another example would be if they are using an alt account and are advertising an auction on their main, you should post a screenshot of their original account being banned to act as proof, after you report them for ALT.
+
+## Conclusion
 
 This system may be a little overwelming to begin with, but makes a lot of sense when you get used to it, and should steamline reporting people, getting them punished, helping find evidence, and more.
 
