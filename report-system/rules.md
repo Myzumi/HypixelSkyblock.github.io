@@ -204,6 +204,8 @@ Not punishable:
 - "Someone scammed me, I have my chat logs"
 - "Some scammed me but I didn't screenshot anything"
 
+---
+
 ##### Alternative account: [ALT]
 When a user creates an account to bypass a mute or ban, or any other reason where they may negatively benefit from having a second account.
 
