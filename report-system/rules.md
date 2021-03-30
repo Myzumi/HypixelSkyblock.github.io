@@ -1,5 +1,5 @@
 # Rules
-Staff members should punish for anything outside of the Discord server, with the one exception being users who use the server as a platform to spread invite links.
+Staff members should not punish for anything outside of the Discord server, with the one exception being users who use the server as a platform to spread invite links.
 Anything happening in DMs is not our concern, and if someone is being rude to another user, you should encourage the players to block them.
 
 If you're not sure which rule to report for, ask in staff chat and someone should reply quickly (or ask a Mod if you're a Helper).
