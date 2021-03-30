@@ -70,7 +70,7 @@ Punishable:
 - "fuuck you"
 - "go kill away loser"
 - "shut up nerd"
-- "you're so bad and stupid
+- "you're so bad and stupid"
 - "you are dumb!"
 
 Not Punishable:
@@ -152,8 +152,8 @@ Punishable:
 - "You're autistic"
 
 Not Punishable:
+- "I'm homosexual"
 - "Mexican player"
-- "Gay (by itself) / I am gay"
 - "LGBTQ+"
 - "Autism"
 
