@@ -33,7 +33,7 @@ Not punishable:
 ---
 
 ##### Personal Media Advertising: [MA]
-If a user advertises their own (or a friends) platforms such as their: Youtube channel, Twitch, Twitter, Personal Minecraft server, etc
+If a user advertises their own (or a friends) platforms such as their: Youtube channel, Twitch, Twitter, Personal Minecraft server, etc.
 
 Punishable:
 - "Can you guys check out my youtube channel, it's called MC_YT"
