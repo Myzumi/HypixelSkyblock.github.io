@@ -119,7 +119,7 @@ When a user post content that shows adult content, themes, excessive violence, p
 
 Punishable:
 - "Suck my penis"
-- "<pfp being a naked woman>"
+- "(pfp being a naked woman)"
 - "I am a stripper"
 - "I love kids and having sex with them"
 - "Smoke cocaine"
