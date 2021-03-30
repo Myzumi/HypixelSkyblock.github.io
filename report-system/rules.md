@@ -9,15 +9,15 @@ If you're not sure which rule to report for, ask in staff chat and someone shoul
  
 ---
 
-#### Accumulative Misbehaviour: [AM]
+##### Accumulative Misbehaviour: [AM]
 If a user is constantly brushing the rules, just to be annoying or test staff, but where a more serious punishment would be overkill.
 
 Punishable:
-- "<emoji for chicken> <emoji for suit>" -> "Hen Tie" -> "Hentai"
+- "(emoji for chicken) (emoji for suit)" -> "Hen Tie" -> "Hentai"
 
 ---
 
-#### Excess Pings: [EP]
+##### Excess Pings: [EP]
 If a user pings Hypixel staff, or pings admins because they have a small problem.
 
 Punishable:
@@ -30,7 +30,7 @@ Not punishable:
 
 ---
 
-#### Personal Media Advertising: [MA]
+##### Personal Media Advertising: [MA]
 If a user advertises their own (or a friends) platforms such as their:
 - YouTube channel
 - Twitch
@@ -53,7 +53,7 @@ Not punishable:
 
 ---
 
-#### Spamming: [SP]
+##### Spamming: [SP]
 If you spam the same message more than a few times in the same channel.
 
 Punishable:
@@ -66,7 +66,7 @@ Not punishable:
 
 ---
 
-#### Rude: [RU]
+##### Rude: [RU]
 If a player is being rude to another player.
 
 Punishable:
@@ -86,7 +86,7 @@ Not Punishable:
 
 ---
 
-#### Filter Bypass: [FB]
+##### Filter Bypass: [FB]
 When a user bypasses the filter to say a blacklisted word, or if they purposefully use a word which might not be on the blacklist.
 
 Punishable:
@@ -102,7 +102,7 @@ No punishable:
 
 ---
 
-#### Voice Chat Abuse: [VCA]
+##### Voice Chat Abuse: [VCA]
 When a user uses excessive language, slurs, screams etc in voice chat, or they continuously leave and join to be annoying.
 This is the single rule that doesn't have any proof, as it's unlikely you're recording. It is therefore *crucial* that when reporting for this, you personally mention 
 every detail about what has happened, and clearly state that you were in the voice chat at the time, to be a first-hand witness.
@@ -118,7 +118,7 @@ Not punishable:
 
 ---
 
-#### Inappropriate Content: [IC]
+##### Inappropriate Content: [IC]
 When a user post content that shows adult content, themes, excessive violence, porn etc.
 
 Punishable:
@@ -141,7 +141,7 @@ Not Punishable:
 
 ---
 
-#### Discrimination: [DI]
+##### Discrimination: [DI]
 Discrimination includes sexist comments, racists comments, and political/religious comments and discussion.
 Referring to a certain group of people due to color, medical conditions, religion, ethnicity, or beliefs, to target other players with the intent to degrade or belittle them.
 
@@ -162,7 +162,7 @@ Not Punishable:
 
 ---
 
-#### User Disrespect: [UD]
+##### User Disrespect: [UD]
 When a player is being beyond rude and is becoming more confrontational and/or threatening.
 Similarly, targeted rape & Sexual assault comments.
 
@@ -181,7 +181,7 @@ Not Punishable:
 
 ---
 
-#### Advertising discords/servers: [AD]
+##### Advertising discords/servers: [AD]
 If a player advertises other discord servers.
 This includes personal, public, and big ones.
 
@@ -195,7 +195,7 @@ Not Punishable:
 
 ---
 
-#### Scamming: [SC]
+##### Scamming: [SC]
 When a user has scammed another user. This could be in the form of taking collateral that is of greater value, for items that need dropping and then not paying, or making people pay for Floor runs and then leaving.
 
 We only punish scamming if the evidence is on recording, or sufficient amount and quality screen-shots, everything else is so easily falsified and is not enough to warrant a permanent ban.
@@ -208,7 +208,7 @@ Not punishable:
 - "Someone scammed me, I have my chat logs"
 - "Some scammed me but I didn't screenshot anything"
 
-#### Alternative account: [ALT]
+##### Alternative account: [ALT]
 When a user creates an account to bypass a mute or ban, or any other reason where they may negatively benefit from having a second account.
 
 Punishable:
