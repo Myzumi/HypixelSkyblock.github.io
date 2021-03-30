@@ -1,3 +1,4 @@
+# Report System
 ## The new report system - overview
 
 The new report system includes 3 new channels:
