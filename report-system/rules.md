@@ -14,6 +14,7 @@ If a user is constantly brushing the rules, just to be annoying or test staff, b
 
 Punishable:
 - "(emoji for chicken) (emoji for suit)" -> "Hen Tie" -> "Hentai"
+- User keeps annoying staff, but not enough for a higher report
 
 ---
 
