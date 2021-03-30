@@ -24,7 +24,7 @@ If a user pings Hypixel staff, or pings admins because they have a small problem
 Punishable:
 - "@Admin Hi"
 - "@Oliver how are you"
-"<Keeps pinging the same person to annoy then>"
+- "(Keeps pinging the same person to annoy then)"
 
 Not punishable:
 - "@Admin I need serious help" (with an actual problem)
