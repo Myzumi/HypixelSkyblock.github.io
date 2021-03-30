@@ -1,3 +1,4 @@
+# Rules
 Staff members should punish for anything outside of the Discord server, with the one exception being users who use the server as a platform to spread invite links.
 Anything happening in DMs is not our concern, and if someone is being rude to another user, you should encourage the players to block them.
 
