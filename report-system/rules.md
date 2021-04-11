@@ -68,7 +68,7 @@ If a player is being rude to another player.
 
 Punishable:
 - "fuuck you"
-- "go kill away loser"
+- "go away loser"
 - "shut up nerd"
 - "you're so bad and stupid"
 - "you are dumb!"
