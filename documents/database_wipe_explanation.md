@@ -4,7 +4,7 @@ On the 5th of May 2021 there was a change to the server system that hosts a larg
 A new webserver was added, and while this was added, an old webserver was deleted (with a bot that wasn't being used anymore).
 
 The problem occured when we figured out that the punishment, level and reputation data databases all also sat on that server, because of some poor planning at the time.
-This was bad news for multiple reasons. Firstly, everyone's punishment history was banned, allowing them to have a clean sheet (e.g. no previous punishments were kept).
+This was bad news for multiple reasons. Firstly, everyone's punishment history was wiped, allowing them to have a clean sheet (e.g. no previous punishments were kept).
 Secondly, people's levels and reps were deleted, which they often worked really hard for.
 
 I (Skezza) set up the punishment system in a way to allow for redundancy, and could regenerate the database data by looping over every embed in a channel, so all that data was successfully recovered.
