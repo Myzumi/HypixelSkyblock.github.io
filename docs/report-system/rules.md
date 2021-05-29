@@ -74,7 +74,7 @@ Punishable:
 - "you are dumb!"
 
 Not Punishable:
-- "L" "STFU" "WTF"
+- "L", "WTF", "What tf"
 - "I don't like you"
 - "That's not the right answer"
 - "I disagree with you"
