@@ -50,7 +50,7 @@ This will be the main point of proof, explaination of punishments, etc.
 
 ###### `3. The report categories.`
 Each punishment will need to go under a category, these can be found by doing `!rule_list`.
-When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for `SP`). If you are unsure what rule something comes under, please an Admin.
+When reporting, you should use the abbreviation (E.g. if they used spamming, you'd report for `SP`). If you are unsure what rule something comes under, please ask an Admin.
 
 ###### `4. Command Arguments.`
 An argument is an input for a command. It will be space seperated sections of text. For example, if we had an add command, such as `!add 5 6`
