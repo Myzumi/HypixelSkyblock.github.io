@@ -193,7 +193,7 @@ Not Punishable:
 ---
 
 ##### Scamming: [SC]
-When a user has scammed another user. This could be in the form of taking collateral that is of greater value, for items that need dropping and then not paying, or making people pay for Floor runs and then leaving.
+When a user has scammed another user. This could be in the form of taking collateral that is of greater value, for example swapping an item before the trade is accepted, or making people pay for Floor runs and then leaving.
 
 We only punish scamming if the evidence is on recording, or sufficient amount and quality screen-shots, everything else is so easily falsified and is not enough to warrant a permanent ban.
 
