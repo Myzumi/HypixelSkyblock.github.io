@@ -41,6 +41,8 @@ While there isn't recorded proof that his happened, the circumstances and Monkey
 While I do support my staff team, I will never back them for no reason, and this is the case. I'd love to remove bad people from the staff team, so if this is an opportunity, I'd happily that that up.
 Why would I want to randomly ban community members, what would I get out of this? Nothing, I have no incentive to do that.
 
+While we don't want to discredit community concerns, if these allegations were to result in being true, shouldn't the goal be to take this a criminal level, rather than telling other civilian community members? This is an incredibly serious matter if true, so why not take it immediately to an admin to get them instantly removed with solid proof, rather than telling random members of the community?
+
 If you have any questions, send me a direct message, I'll be happily to hear your side of the story.
 
 -Skezza
