@@ -24,6 +24,8 @@ Monkey then joined a voice chat with Larucus and another member of the community
 Regardless of Larucus's innocence, there's not much he can do apart from deny these bold claims, which he did, like above, you can't prove you didn't do something.
 I am messaged by Larucus, alerting me of what has happened regarding Monkey spreading this claim. I am then messaged by Monkey, alerting me of his claim.
 
+EDIT: I've also been told by Larucus (so take this as you will), that the way he was also alerted was multiple other community members integrogating him on the matter, so it may have been more than just this VC, but as I'm being impartial, I can't instantly trust this, so for now we'll ignore it.
+
 I gave Monkey the ultimatum, either provide the proof which would show that Larucus clearly attempted to buy these nude images, or, because of his potentially damaging behaviour, will be removed from the server. Monkey agreed.
 
 He told me he was away from his PC so the proof would come a bit later, and I agreed. It came a few hours later, and the proof that he sent was purely a screenshot showing two individuals talking, and one of them (paraphrased) says "Yeah Larucus bought [my nudes]".
