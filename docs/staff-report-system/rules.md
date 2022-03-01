@@ -197,6 +197,34 @@ Punishable:
 Not punishable:
 - Someone talked about another account, or showed their auctions
 
+---
+
+##### In Real Life (trading): [IRL]
+Breaking Hypixel's rules or the server's rules in some way in a way that's outside of the server.
+
+Punishable:
+- "Trying to buy a Hyperion, have $20 and Paypal"
+- "Is revealing personal information, e.g. doxing, ip grabbing and posting, etc.
+- Trying to scam players in some way, either through malicious files, links or another way.
+
+Not Punishable:
+- "<user> and I are meeting up this weekend, going to be fun!"
+- "Me and <user> know each other IRL"
+- (when it's common knowledge), "Yeah, Skezza is from the U.K."
+
+---
+
+##### Underage User: [UA]
+A user on the server that is 12 years old or below, breaking discord's Terms of Services.
+
+Punishable:
+- "Next week is my 13th birthday" *serious
+- *in direct messages* <Directly admitting they're 12 or younger>
+- States their year of birth is too young, e.g. they were born in 2012.
+
+Not Punishable:
+- "I'm 9 lol"
+- "I'm quite young"
 
 ---
 
