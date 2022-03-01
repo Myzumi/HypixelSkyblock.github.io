@@ -208,8 +208,8 @@ Punishable:
 - Trying to scam players in some way, either through malicious files, links or another way.
 
 Not Punishable:
-- "<user> and I are meeting up this weekend, going to be fun!"
-- "Me and <user> know each other IRL"
+- "*user* and I are meeting up this weekend, going to be fun!"
+- "Me and *user* know each other IRL"
 - (when it's common knowledge), "Yeah, Skezza is from the U.K."
 
 ---
@@ -233,7 +233,7 @@ When users deploy automated accounts to target as many users as possible.
 Either in direct messages or by spamming a spam link in every channel.
 
 Punishable:
-- "Hey guys, get a free CSGO Skin, don't be greedy: <scam link>"
+- "Hey guys, get a free CSGO Skin, don't be greedy: *scam link*"
 - *in direct messages* "Hey can you join my server, it's growing fast!" (when sent to dozens of people)
 
 Not Punishable:
