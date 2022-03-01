@@ -159,25 +159,6 @@ Not Punishable:
 
 ---
 
-##### User Disrespect: [UD]
-When a player is being beyond rude and is becoming more confrontational and/or threatening.
-Similarly, targeted rape & Sexual assault comments.
-
-Punishable:
-- "Kill yourself"
-- "End your life"
-- "Dig a hole and go die"
-- "I hope your family dies"
-- "I will kill you"
-- "I will rape you / Get raped"
-
-Not Punishable:
-- "Keep yourself safe"
-- "Die / Go die"
-- "Jump off a cliff"
-
----
-
 ##### Advertising discords/servers: [AD]
 If a player advertises other discord servers.
 This includes personal, public, and big ones.
@@ -215,3 +196,18 @@ Punishable:
 
 Not punishable:
 - Someone talked about another account, or showed their auctions
+
+
+---
+
+##### Bot/Automated account: [BOT]
+When users deploy automated accounts to target as many users as possible.
+Either in direct messages or by spamming a spam link in every channel.
+
+Punishable:
+- "Hey guys, get a free CSGO Skin, don't be greedy: <scam link>"
+- *in direct messages* "Hey can you join my server, it's growing fast!" (when sent to dozens of people)
+
+Not Punishable:
+- People who are just committing Personal Media Advertising.
+- People who message a few members their server manually
