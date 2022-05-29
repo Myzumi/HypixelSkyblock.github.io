@@ -239,3 +239,14 @@ Punishable:
 Not Punishable:
 - People who are just committing Personal Media Advertising.
 - People who message a few members their server manually
+
+##### Spreading or using a R.A.T.: [RAT]
+Sending R.A.T. software, or using any software to obtain access to tokens or control over someone's account/PC.
+
+Punishable:
+- Sending a MC mod that is a R.A.T. (which is verified as a RAT)
+- Sending an `exe` file or Discord Token Grabber to someone.
+
+Not Punishable:
+- People sharing legitimate mods
+- Unproven R.A.T.s
