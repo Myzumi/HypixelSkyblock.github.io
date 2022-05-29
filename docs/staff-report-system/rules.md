@@ -160,8 +160,8 @@ Not Punishable:
 ---
 
 ##### Advertising discords/servers: [AD]
-If a player advertises other discord servers.
-This includes personal, public, and big ones.
+If a player advertises other discord servers.  
+This includes personal, public, and big ones, but must be advertising, simply giving it when someone asks for it is allowed.
 
 Punishable:
 - "Message me in dm for a discord link to my server"
