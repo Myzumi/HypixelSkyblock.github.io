@@ -16,7 +16,7 @@
   - Will be added after an update;
 - Creates Ticket based on input
   - Ticket can be claimed when meeting the Tier Requirement
-    - Every 2 floors are 1 Tier requirement, Master floors past M2 are one Tier
+    - Every 2 floors are 1 Tier requirement, past F7 are one Tier
     - Claiming a ticket will create a Thread for the Carry
 - Party System
   - Party up with another Carrier
