@@ -45,77 +45,107 @@
 # Carry Prices
 
 ## Tier 1
+
 Floor 1
+
 Completion
 - 1 Run: 50.0K
 
 Floor 2
+
 Completion
 - 1 Run: 100.0K
 
 ## Tier 2
+
 Floor 3
+
 Completion
 - 1 Run: 200.0K
 
 Floor 4
+
 Completion
 - 1 Run: 400.0K
 
 ## Tier 3
+
 Floor 5
+
 Completion
 - 1 Run: 350k
+
 S Runs
 - 1 Run: 500k
+
 S+ Runs
 - 1 Run: 700k
 
 ## Tier 4
+
 Floor 6
+
 Completion
 - 1 Run: 600k
+
 S Runs
 - 1 Run: 900k
+
 S+ Runs
 - 1 Run: 1.5m
 
 ## Tier 5
+
 Floor 7
+
 Completion
 - 1 Run: 3.5m
+
 S Runs
 - 1 Run: 5m
+
 S+ Runs
 - 1 Run: 8m
 
 ## Tier 6
+
 Master 1
+
 S Runs
 - 1 run: 1m
 
 ## Tier 7
+
 Master 2
+
 S Runs
 - 1 run: 2.5m
 
 ## Tier 8
+
 Master 3
+
 S Runs
 - 1 run: 3.5m
 
 ## Tier 9
+
 Master 4
+
 S Runs
 - 1 run: 8m
 
 ## Tier 10
+
 Master 5
+
 S Runs
 - 1 run: 4-5m
 
 ## Tier 11
+
 Master 6
+
 S Runs
 - 1 run: 7m
 
