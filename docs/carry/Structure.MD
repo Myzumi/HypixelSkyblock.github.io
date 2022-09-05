@@ -38,25 +38,19 @@
   - Requestor can only have one active ticket
 - Tier System
   - Tiers will be selected on the power of the Carrier which floor they can carry
-  - Tier 13 can Manage Tickets
-  - Tier 14 can Manage Carriers
-  - Tier 15 can Manage Prices
-  - Tier 16 can Manage Tiers
+  - Tier 12 can Manage Tickets
+  - Tier 13 can Manage Carriers
+  - Tier 14 can Manage Prices
+  - Tier 15 can Manage Tiers
 # Carry Prices
 
+
 ## Tier 1
-
-Floor 1
-
-Completion
-- 1 Run: 50.0K
 
 Floor 2
 
 Completion
 - 1 Run: 100.0K
-
-## Tier 2
 
 Floor 3
 
@@ -68,7 +62,7 @@ Floor 4
 Completion
 - 1 Run: 400.0K
 
-## Tier 3
+## Tier 2
 
 Floor 5
 
@@ -81,7 +75,7 @@ S Runs
 S+ Runs
 - 1 Run: 700k
 
-## Tier 4
+## Tier 3
 
 Floor 6
 
@@ -94,7 +88,7 @@ S Runs
 S+ Runs
 - 1 Run: 1.5m
 
-## Tier 5
+## Tier 4
 
 Floor 7
 
@@ -107,47 +101,47 @@ S Runs
 S+ Runs
 - 1 Run: 8m
 
-## Tier 6
+## Tier 5
 
 Master 1
 
 S Runs
 - 1 run: 900k
 
-## Tier 7
+## Tier 6
 
 Master 2
 
 S Runs
 - 1 run:1.7m
 
-## Tier 8
+## Tier 7
 
 Master 3
 
 S Runs
 - 1 run: 2.7m
 
-## Tier 9
+## Tier 8
 
 Master 4
 
 S Runs
 - 1 run: 9m
 
-## Tier 10
+## Tier 9
 
 Master 5
 
 S Runs
 - 1 run: 3.5m
 
-## Tier 11
+## Tier 10
 
 Master 6
 
 S Runs
 - 1 run: 5.5m
 
-## Tier 12
+## Tier 11
 IF Master 7 ever comes
