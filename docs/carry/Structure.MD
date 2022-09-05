@@ -99,10 +99,10 @@ S+ Runs
 Floor 7
 
 Completion
-- 1 Run: 3.5m
+- 1 Run: 4m
 
 S Runs
-- 1 Run: 5m
+- 1 Run: 6m
 
 S+ Runs
 - 1 Run: 8m
@@ -112,42 +112,42 @@ S+ Runs
 Master 1
 
 S Runs
-- 1 run: 1m
+- 1 run: 900k
 
 ## Tier 7
 
 Master 2
 
 S Runs
-- 1 run: 2.5m
+- 1 run:1.7m
 
 ## Tier 8
 
 Master 3
 
 S Runs
-- 1 run: 3.5m
+- 1 run: 2.7m
 
 ## Tier 9
 
 Master 4
 
 S Runs
-- 1 run: 8m
+- 1 run: 9m
 
 ## Tier 10
 
 Master 5
 
 S Runs
-- 1 run: 4-5m
+- 1 run: 3.5m
 
 ## Tier 11
 
 Master 6
 
 S Runs
-- 1 run: 7m
+- 1 run: 5.5m
 
 ## Tier 12
 IF Master 7 ever comes
