@@ -50,43 +50,46 @@
 Floor 2
 
 Completion
-- 1 Run: 100.0K
+- 1 Run: 50K
 
 Floor 3
 
 Completion
-- 1 Run: 200.0K
+- 1 Run: 75K
 
 Floor 4
 
 Completion
-- 1 Run: 400.0K
+- 1 Run: 350K
+
+S Runs
+- 1 Run: 400K
 
 ## Tier 2
 
 Floor 5
 
 Completion
-- 1 Run: 350k
+- 1 Run: 300k
 
 S Runs
 - 1 Run: 500k
 
 S+ Runs
-- 1 Run: 700k
+- 1 Run: 550k
 
 ## Tier 3
 
 Floor 6
 
 Completion
-- 1 Run: 600k
+- 1 Run: 500k
 
 S Runs
-- 1 Run: 900k
+- 1 Run: 650k
 
 S+ Runs
-- 1 Run: 1.5m
+- 1 Run: 900k
 
 ## Tier 4
 
@@ -96,7 +99,7 @@ Completion
 - 1 Run: 4m
 
 S Runs
-- 1 Run: 6m
+- 1 Run: 5m
 
 S+ Runs
 - 1 Run: 8m
