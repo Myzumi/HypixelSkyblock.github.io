@@ -55,7 +55,7 @@ Completion
 Floor 3
 
 Completion
-- 1 Run: 75K
+- 1 Run: 100K
 
 Floor 4
 
