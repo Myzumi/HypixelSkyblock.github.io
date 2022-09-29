@@ -45,7 +45,7 @@ It will be in this form: https://discord.com/channels/571681282652766208/7157223
 Where the first id is the guild, the second the channel, and the third, the message id, you don't have to worry about these numbers, but being able to get a message link is very much necessery for this system to work.
 
 ###### `2. A report embed.`
-This is an embed found in **#mod-logs** which was sent by the bot and contains all the information about a punishment: Its case id, the rule they broke, who reported them, the proof (In the form of text, an image, or both), and the report's status.
+This is an embed found in **#mod-logs** which was sent by the bot and contains all the information about a punishment: Its case id, the rule they broke, who reported them, the proof (In the form of text), and the report's status.
 This will be the main point of proof, explaination of punishments, etc.
 
 ###### `3. The report categories.`
@@ -74,7 +74,7 @@ You would use this command in **#reports**, and with this new command, you gener
 
 ### Possible edge cases:
 
-If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof), please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in #reports **after** the report embed.
+If something needs extra evidence, such as spamming (since reporting one instance of what they spammed doesn't act as sufficient proof), please just report one of the messages, (e.g. one of the messages which they spammed), and then take a screenshot of the rest and post that image in the thread.
 
 If it was in DMs, such using the server as a platform to spread discord invites (possibly to IRL trading servers), malicious, or illegal content, or the reason you're reporting does not directly have a message in the server that was the problem (e.g. sending an IRL trading link to every player on the discord server), then find any message that the target has sent (the content isn't important, even a message where they send one character is fine), then after the report embed is generated, post all the evidence after it (screenshots, a personal statement, etc) and make a note that the text in the report embed is not relevant). 
 
@@ -106,8 +106,8 @@ Shows all information about a case, e.g. the user, the staff member, when it hap
 
 When a report has been made, it'll either be a <span style="color:blue">Low Tier Report</span> (for less serious things, such as Spamming, etc) which will lead to a mute on the first instance, or a <span style="color:orange">High Tier Report</span> (IRL trading, Scamming etc).
 
-If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>. (Mods will also be pinged, if the report was from a Helper)
-If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by the person who reported it or a Mod, and be <span style="color:blue">Blue</span> (Mods can accept or deny any report).
+If it's <span style="color:orange">High Tier Report</span>, it'll need to be accepted by a mod, and will be <span style="color:orange">Orange</span>.
+If it's <span style="color:blue">Low Tier Report</span>, it'll need to be accepted by anyone, and be <span style="color:blue">Blue</span>.
 
 Once it's accepted, it'll change to <span style="color:green">Green</span>, and **#status** will show that the punishment has taken effect (It will also show when the punishment has warn off).
 
