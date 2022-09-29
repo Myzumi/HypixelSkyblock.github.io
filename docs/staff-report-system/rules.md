@@ -240,6 +240,8 @@ Not Punishable:
 - People who are just committing Personal Media Advertising.
 - People who message a few members their server manually
 
+---
+
 ##### Spreading or using a R.A.T.: [RAT]
 Sending R.A.T. software, or using any software to obtain access to tokens or control over someone's account/PC.
 
