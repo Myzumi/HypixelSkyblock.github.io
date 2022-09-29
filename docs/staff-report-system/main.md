@@ -95,7 +95,7 @@ If someone was falsely reported, and it was accepted, you can remove this report
 Nb: This will not undo any punishments, e.g. if it caused them to get muted, this will not unmute them, so use the following command to do that.
 
 ### `!unmute <discord_id>`
-Removes the `Muted` role from someone if they were falsely muted.
+Removes someone from timeout if they were falsely muted.
 
 ### `!view_case <case id>`
 Shows all information about a case, e.g. the user, the staff member, when it happened, a list to the report, etc.
